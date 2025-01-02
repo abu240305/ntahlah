@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3aa3ffed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    border: 2px dashed #5C6AC4;
+    border-radius: 15px;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.funny-face {
+    font-size: 60px;
+}
+
+h1 {
+    color: #5C6AC4;
+    margin: 15px 0;
+}
+
+p {
+    color: #333;
+    line-height: 1.5;
+}
+
+footer {
+    margin-top: 20px;
+    color: #888;
+    font-style: italic;
+}
+
